@@ -1,4 +1,4 @@
-# Simple HTTP File Server Example
+# Simple HTTP File Server Example using SD card as primary file storage.
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
