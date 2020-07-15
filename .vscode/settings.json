@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "esp_vfs_fat.h": "c",
+        "esp_vfs.h": "c",
+        "esp_spiffs.h": "c"
+    }
+}

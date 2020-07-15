@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/phuong/Projects/ESP32/file_serving/build/CMakeFiles/bootloader
+/home/phuong/Projects/ESP32/file_serving/build/CMakeFiles/bootloader.rule
+/home/phuong/Projects/ESP32/file_serving/build/CMakeFiles/bootloader-complete.rule
+/home/phuong/Projects/ESP32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/phuong/Projects/ESP32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/phuong/Projects/ESP32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/phuong/Projects/ESP32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/phuong/Projects/ESP32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/phuong/Projects/ESP32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/phuong/Projects/ESP32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
